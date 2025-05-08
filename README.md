@@ -3,7 +3,7 @@
 `berr` is an errors package that provides simple functions for creating more descriptive errors.
 
 ```
-go get github.com/rheisen/berr
+go get github.com/ramzitalhouk/berr
 ```
 
 ### Why `berr`

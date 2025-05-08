@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rheisen/berr"
+	"github.com/ramzitalhouk/berr"
 )
 
 func TestApplicationError(t *testing.T) {
