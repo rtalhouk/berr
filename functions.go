@@ -24,6 +24,10 @@ func NotFound(message string, details ...Detail) Error {
 	return newBerr(NotFoundErrorType, message, details...)
 }
 
+func ImATeapot(message string, details ...Detail) Error {
+	return newBerr(ImATeapotErrorType, message, details...)
+}
+
 func D(key string, value any) Detail {
 	return detail{key: key, value: value}
 }
