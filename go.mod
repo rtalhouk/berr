@@ -1,3 +1,3 @@
-module github.com/ramzitalhouk/berr
+module github.com/rtalhouk/berr
 
 go 1.19
